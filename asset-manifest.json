@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/polos_desarrollo/static/css/main.00a49092.css",
-    "main.js": "/polos_desarrollo/static/js/main.a3caac69.js",
+    "main.css": "/polos_desarrollo/static/css/main.0f3b9fcd.css",
+    "main.js": "/polos_desarrollo/static/js/main.549e2a4e.js",
     "static/js/453.ceaa1e3c.chunk.js": "/polos_desarrollo/static/js/453.ceaa1e3c.chunk.js",
     "index.html": "/polos_desarrollo/index.html",
-    "main.00a49092.css.map": "/polos_desarrollo/static/css/main.00a49092.css.map",
-    "main.a3caac69.js.map": "/polos_desarrollo/static/js/main.a3caac69.js.map",
+    "main.0f3b9fcd.css.map": "/polos_desarrollo/static/css/main.0f3b9fcd.css.map",
+    "main.549e2a4e.js.map": "/polos_desarrollo/static/js/main.549e2a4e.js.map",
     "453.ceaa1e3c.chunk.js.map": "/polos_desarrollo/static/js/453.ceaa1e3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a49092.css",
-    "static/js/main.a3caac69.js"
+    "static/css/main.0f3b9fcd.css",
+    "static/js/main.549e2a4e.js"
   ]
 }
